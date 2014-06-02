@@ -1,4 +1,4 @@
-package arraysAndString;
+package arrays;
 
 public class HelloWorld {
 
